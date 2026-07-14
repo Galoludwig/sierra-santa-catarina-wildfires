@@ -72,7 +72,7 @@ Mexico City, Mexico
 
 ## Monthly_Wildfire_Climate_Dataset_2001_2025.csv
 
-Monthly dataset covering the period **January 2001–December 2025** used in all statistical analyses.
+Monthly dataset covering the period **2001–2025** used in all statistical analyses.
 
 The dataset contains wildfire occurrence, vegetation indices, climatic variables, and fire-weather indicators used in the GLMM analyses, including:
 
