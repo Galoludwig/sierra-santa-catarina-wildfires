@@ -137,14 +137,14 @@ The **Figures/** directory contains the figures included in the manuscript.
 
 | Figure | Description |
 |--------------|-------------|
-| **Figure 1** | Location of the Sierra de Santa Catarina (SSC), a peri-urban volcanic protected area in eastern Mexico City, Mexico. |
-| **Figure 2** | Conceptual workflow illustrating the integration of remote sensing, climatic variables, and generalized linear mixed models (GLMMs). |
-| **Figure 3** | Spatial distribution of wildfire frequency, fire seasonality, and annual wildfire trend during 2001–2025. |
-| **Figure 4** | Seasonal comparison between dry and rainy conditions in the Sierra de Santa Catarina. |
-| **Figure 5** | Climatic sensitivity of wildfires (Model A). |
-| **Figure 6** | Determinants of vegetation fuel dynamics (Model B). |
-| **Figure 7** | Wildfire occurrence dynamics (Model C). |
-| **Figure 8** | Seasonal comparison between dry and rainy conditions in the Sierra de Santa Catarina. |
+| **1** | Location of the Sierra de Santa Catarina (SSC), a peri-urban volcanic protected area in eastern Mexico City, Mexico. |
+| **2** | Conceptual workflow illustrating the integration of remote sensing, climatic variables, and generalized linear mixed models (GLMMs). |
+| **3** | Spatial distribution of wildfire frequency, fire seasonality, and annual wildfire trend during 2001–2025. |
+| **4** | Seasonal comparison between dry and rainy conditions in the Sierra de Santa Catarina. |
+| **5** | Climatic sensitivity of wildfires (Model A). |
+| **6** | Determinants of vegetation fuel dynamics (Model B). |
+| **7** | Wildfire occurrence dynamics (Model C). |
+| **8** | Seasonal comparison between dry and rainy conditions in the Sierra de Santa Catarina. |
 ---
 
 # Data Sources
