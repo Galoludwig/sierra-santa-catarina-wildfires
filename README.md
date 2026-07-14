@@ -205,7 +205,7 @@ If you use this repository, please cite:
 
 Márquez-Villalba, G. L., Márquez-García, A. Z., & Tapia-Silva, F. O. (2026). *Wildfire Drivers in the Sierra de Santa Catarina (2001–2025).* Zenodo. https://doi.org/XXXXXXXXXX
 
-*(Replace the DOI after creating the Zenodo release.)*
+
 
 ---
 
