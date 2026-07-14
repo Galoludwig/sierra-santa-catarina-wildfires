@@ -136,7 +136,7 @@ The **R/** directory contains the statistical analyses and data-processing workf
 The **Figures/** directory contains the figures included in the manuscript.
 
 | Figure | Description |
-|---------|-------------|
+|--------------|-------------|
 | **Figure 1** | Location of the Sierra de Santa Catarina (SSC), a peri-urban volcanic protected area in eastern Mexico City, Mexico. |
 | **Figure 2** | Conceptual workflow illustrating the integration of remote sensing, climatic variables, and generalized linear mixed models (GLMMs). |
 | **Figure 3** | Spatial distribution of wildfire frequency, fire seasonality, and annual wildfire trend during 2001–2025. |
