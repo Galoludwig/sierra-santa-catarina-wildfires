@@ -33,13 +33,13 @@ Mexico City, Mexico
 │   └── SSC_boundary.geojson
 │
 ├── GEE/
-│   ├── 01_Dead_Ratio_Landsat.js
-│   ├── 02_Fire_count_Landsat.js
+│   ├── 01_RH.js
+│   ├── 02_VPD.js
 │   ├── 03_NDVI_KNDVI_2001_2025.js
-│   ├── 04_NBR_monthly_2001_2025.js
+│   ├── 04_Dead_Ratio_Landsat.js
 │   ├── 05_HOTSPOTS_MODIS.js
-│   ├── 06_VPD.js
-│   └── 07_RH.js
+│   ├── 06_Fire_count_Landsat.js
+│   └── 07_NBR_monthly_2001_2025.js
 │
 ├── R/
 │   ├── 01_Wildfire_Frequency.R
@@ -98,19 +98,19 @@ Polygon representing the boundary of the Sierra de Santa Catarina (SSC), used fo
 
 ---
 
-# Google Earth Engine (GEE) Scripts
+## Google Earth Engine (GEE) Scripts
 
-The **GEE/** directory contains the JavaScript scripts used to derive remotely sensed variables from Landsat, MODIS, and ERA5-Land datasets.
+The **GEE/** directory contains the Google Earth Engine JavaScript scripts used to derive the remotely sensed and meteorological variables included in this study.
 
-| Script                          | Description                                                                                     |
-| ------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **01_Dead_Ratio_Landsat.js**    | Calculates the monthly Dead Ratio index from Landsat imagery.                                   |
-| **02_Fire_count_Landsat.js**    | Estimates monthly wildfire counts from Landsat burned-area detections.                          |
-| **03_NDVI_KNDVI_2001_2025.js**  | Computes monthly NDVI and kernel NDVI (kNDVI) for 2001–2025.                                    |
-| **04_NBR_monthly_2001_2025.js** | Calculates monthly Normalized Burn Ratio (NBR).                                                 |
-| **05_HOTSPOTS_MODIS.js**        | Extracts monthly MODIS Active Fire (hotspot) detections.                                        |
-| **06_VPD.js**                   | Calculates monthly Vapor Pressure Deficit (VPD) from ERA5-Land.                                 |
-| **07_RH.js**                    | Calculates monthly Relative Humidity (RH) from ERA5-Land temperature and dew-point temperature. |
+| No. | Script | Description |
+|:---:|--------|-------------|
+| **01** | **RH.js** | Calculates monthly Relative Humidity (RH) from ERA5-Land air temperature and dew-point temperature. |
+| **02** | **VPD.js** | Calculates monthly Vapor Pressure Deficit (VPD) from ERA5-Land meteorological data. |
+| **03** | **NDVI_KNDVI_2001_2025.js** | Computes monthly NDVI and kernel NDVI (kNDVI) from Landsat imagery for the 2001–2025 study period. |
+| **04** | **Dead_Ratio_Landsat.js** | Calculates the monthly Dead Ratio index, representing the proportion of dead vegetation derived from Landsat imagery. |
+| **05** | **HOTSPOTS_MODIS.js** | Extracts monthly MODIS Active Fire (hotspot) detections. |
+| **06** | **Fire_count_Landsat.js** | Estimates monthly wildfire occurrence (fire count) from Landsat burned-area detections. |
+| **07** | **NBR_monthly_2001_2025.js** | Calculates the monthly Normalized Burn Ratio (NBR) from Landsat imagery. |
 
 ---
 
