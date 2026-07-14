@@ -203,7 +203,7 @@ Run the scripts sequentially following their numerical order.
 
 If you use this repository, please cite:
 
-Márquez-Villalba, G. L., Márquez-García, A. Z., & Tapia-Silva, F. O. (2026). *Wildfire Drivers in the Sierra de Santa Catarina (2001–2025).* Zenodo. https://doi.org/XXXXXXXXXX
+Márquez-Villalba, G. L., Tapia-Silva, F. O. & Márquez-García, A. Z. (2026). *Wildfire Drivers in the Sierra de Santa Catarina (2001–2025).* Zenodo. https://doi.org/XXXXXXXXXX
 
 
 
