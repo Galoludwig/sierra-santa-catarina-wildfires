@@ -135,16 +135,16 @@ The **R/** directory contains the statistical analyses and data-processing workf
 
 The **Figures/** directory contains the figures included in the manuscript.
 
-- **Fig_1_Location_of_the_Sierra_de_Santa_Catarina_(SSC)_within_Mexico_City.tif**
+- **Fig_1_Location_of_the_Sierra_de_Santa_Catarina_(SSC)_within_Mexico_City.png**
   - Location of the Sierra de Santa Catarina (SSC), a peri-urban volcanic protected area in eastern Mexico City, Mexico.
 
-- **Fig_2_Overall_Approach_for_evaluating_drivers_of_fire_occurrence_and_dry_fuel_accumulation_in_the_SSC.tif**
+- **Fig_2_Overall_Approach_for_evaluating_drivers_of_fire_occurrence_and_dry_fuel_accumulation_in_the_SSC.png**
   - Conceptual workflow illustrating the integration of remote sensing, climatic variables, and generalized linear mixed models (GLMMs).
 
-- **Fig_3_Spatial_distribution_map_of_wildfire_frequency_(A),_fire_seasonality_(B),_and_annual_wildfire_trend_(C)_in_the_Sierra_de_Santa_Catarina_(SSC),_Mexico_City,_during_the_2001–2025_period.tif**
+- **Fig_3_Spatial_distribution_map_of_wildfire_frequency_(A),_fire_seasonality_(B),_and_annual_wildfire_trend_(C)_in_the_Sierra_de_Santa_Catarina_(SSC),_Mexico_City,_during_the_2001–2025_period.png**
   - Spatial distribution of wildfire frequency, fire seasonality, and annual wildfire trend during 2001–2025.
 
-- **Fig_4_Seasonal_contrast_between_dry_and_rainy_conditions_in_the_SSC_CDMX_Mexico_City.tif**
+- **Fig_4_Seasonal_contrast_between_dry_and_rainy_conditions_in_the_SSC_CDMX_Mexico_City.png**
   - Seasonal comparison between dry and rainy conditions in the Sierra de Santa Catarina.
 
 - **Fig_5_Model_A_Climatic_sensitivity_of_wildfires_(2001-2025).tif**
@@ -155,6 +155,9 @@ The **Figures/** directory contains the figures included in the manuscript.
 
 - **Fig_7_Model_C_Wildfire_occurrence_dynamics.tif**
   - Wildfire occurrence dynamics (Model C).
+ 
+- **Fig_8_Seasonal_contrast_between_dry_and_rainy_conditions_in_the_SSC_CDMX_Mexico_City.png**
+  - Seasonal comparison between dry and rainy conditions in the Sierra de Santa Catarina.
 ---
 
 # Data Sources
