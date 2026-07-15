@@ -118,16 +118,16 @@ The **GEE/** directory contains the Google Earth Engine JavaScript scripts used 
 
 The **R/** directory contains the statistical analyses and data-processing workflow.
 
-| Script                       | Description                                                                                                            |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **01_Wildfire_Frequency.R**  | Calculates monthly and annual wildfire frequency.                                                                      |
-| **02_Wildfire_Trend.R**      | Evaluates temporal wildfire trends using Mann–Kendall and Sen's slope analyses.                                        |
-| **03_SPEI12_Calculation.R**  | Calculates the 12-month Standardized Precipitation–Evapotranspiration Index (SPEI12).                                  |
-| **04_FDI_Calculation.R**     | Calculates the Fire Danger Index (FDI).                                                                                |
-| **05_CorrelationAnalysis.R** | Computes Pearson correlation matrices among wildfire, climatic, and vegetation variables.                              |
-| **06_GLM_MODEL_A.R**         | Fits Model A evaluating the climatic sensitivity of wildfire occurrence using generalized linear mixed models (GLMMs). |
-| **07_GLM_MODEL_B.R**         | Fits Model B evaluating the determinants of vegetation fuel dynamics (NBR).                                            |
-| **08_GLM_MODEL_C.R**         | Fits Model C evaluating wildfire occurrence dynamics using climatic and vegetation predictors.                         |
+| No. | Script                       | Description                                                                                                            |
+| -------|-------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **01** | **Wildfire_Frequency.R**  | Calculates monthly and annual wildfire frequency.                                                                      |
+| **02** | **Wildfire_Trend.R**      | Evaluates temporal wildfire trends using Mann–Kendall and Sen's slope analyses.                                        |
+| **03** | **SPEI12_Calculation.R**  | Calculates the 12-month Standardized Precipitation–Evapotranspiration Index (SPEI12).                                  |
+| **04** | **FDI_Calculation.R**     | Calculates the Fire Danger Index (FDI).                                                                                |
+| **05** | **CorrelationAnalysis.R** | Computes Pearson correlation matrices among wildfire, climatic, and vegetation variables.                              |
+| **06** | **GLM_MODEL_A.R**         | Fits Model A evaluating the climatic sensitivity of wildfire occurrence using generalized linear mixed models (GLMMs). |
+| **07** | **GLM_MODEL_B.R**         | Fits Model B evaluating the determinants of vegetation fuel dynamics (NBR).                                            |
+| **08** | **GLM_MODEL_C.R**         | Fits Model C evaluating wildfire occurrence dynamics using climatic and vegetation predictors.                         |
 
 ---
 
