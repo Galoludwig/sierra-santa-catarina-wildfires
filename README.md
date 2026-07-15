@@ -87,7 +87,7 @@ The dataset contains wildfire occurrence, vegetation indices, climatic variables
 * Wind Speed
 * SPEI12
 * Niño 3.4 Index
-* Fire Danger Index (FDI)
+* Fire Density Index (FDI)
 * Additional environmental variables described in the manuscript.
 
 ---
@@ -123,7 +123,7 @@ The **R/** directory contains the statistical analyses and data-processing workf
 | **01** | **Wildfire_Frequency.R**  | Calculates monthly and annual wildfire frequency.                                                                      |
 | **02** | **Wildfire_Trend.R**      | Evaluates temporal wildfire trends using Mann–Kendall and Sen's slope analyses.                                        |
 | **03** | **SPEI12_Calculation.R**  | Calculates the 12-month Standardized Precipitation–Evapotranspiration Index (SPEI12).                                  |
-| **04** | **FDI_Calculation.R**     | Calculates the Fire Danger Index (FDI).                                                                                |
+| **04** | **FDI_Calculation.R**     | Calculates the Fire Density Index (FDI).                                                                                |
 | **05** | **CorrelationAnalysis.R** | Computes Pearson correlation matrices among wildfire, climatic, and vegetation variables.                              |
 | **06** | **GLM_MODEL_A.R**         | Fits Model A evaluating the climatic sensitivity of wildfire occurrence using generalized linear mixed models (GLMMs). |
 | **07** | **GLM_MODEL_B.R**         | Fits Model B evaluating the determinants of vegetation fuel dynamics (NBR).                                            |
