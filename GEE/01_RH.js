@@ -1,5 +1,5 @@
 // ============================================================
-// Script: 03_RelativeHumidity.js
+// Script: 01_RelativeHumidity.js
 //
 // Description:
 // Calculates monthly relative humidity (RH) from ERA5-Land
@@ -10,7 +10,7 @@
 // Sierra de Santa Catarina, Mexico City, Mexico
 //
 // Period:
-// January 2001 - December 2025
+// 2001-2025
 // ============================================================
 
 
