@@ -156,7 +156,7 @@ The analyses integrate publicly available datasets from:
 * ERA5-Land Reanalysis (Copernicus Climate Change Service)
 * NOAA Climate Prediction Center (Niño 3.4 Index)
 * Standardized Precipitation–Evapotranspiration Index (SPEI)
-* Meteorological observations from Los Reyes Weather Station (Servicio Meteorológico Nacional)
+* Meteorological observations from "Los Reyes" Weather Station (Servicio Meteorológico Nacional)
 
 ---
 
