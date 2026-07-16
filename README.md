@@ -213,8 +213,7 @@ Run the scripts sequentially following their numerical order.
 
 If you use this repository, please cite:
 
-Márquez-Villalba, G. L., Tapia-Silva, F. O. & Márquez-García, A. Z. (2026). *Wildfire Drivers in the Sierra de Santa Catarina (2001–2025).* Zenodo. https://doi.org/XXXXXXXXXX
-
+Márquez-Villalba, G. L., Tapia-Silva, F. O.& Márquez García, A. Z. (2026). Galoludwig/sierra-santa-catarina-wildfires: Biophysical drivers of wildfire occurrence in a protected peri-urban area of Mexico City: A 25-year analysis of the Sierra de Santa Catarina (2001–2025) (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21389234
 
 
 ---
