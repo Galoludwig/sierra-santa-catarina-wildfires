@@ -172,9 +172,6 @@ The analyses integrate publicly available datasets from:
 * sf
 * glmmTMB
 * lme4
-* performance
-* DHARMa
-* MuMIn
 * lubridate
 * Kendall
 * trend
