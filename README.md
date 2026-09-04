@@ -37,9 +37,8 @@ Mexico City, Mexico
 │   ├── 02_VPD.js
 │   ├── 03_NDVI_KNDVI_2001_2025.js
 │   ├── 04_Dead_Ratio_Landsat.js
-│   ├── 05_HOTSPOTS_MODIS.js
-│   ├── 06_Fire_count_Landsat.js
-│   └── 07_NBR_monthly_2001_2025.js
+│   ├── 05_Fire_count_Landsat.js
+│   └── 06_NBR_monthly_2001_2025.js
 │
 ├── R/
 │   ├── 01_Wildfire_Frequency.R
@@ -108,9 +107,8 @@ The **GEE/** directory contains the Google Earth Engine JavaScript scripts used 
 | **02** | **VPD.js** | Calculates monthly Vapor Pressure Deficit (VPD) from ERA5-Land meteorological data. |
 | **03** | **NDVI_KNDVI_2001_2025.js** | Computes monthly NDVI and kernel NDVI (kNDVI) from Landsat imagery for the 2001–2025 study period. |
 | **04** | **Dead_Ratio_Landsat.js** | Calculates the monthly Dead Ratio index, representing the proportion of dead vegetation derived from Landsat imagery. |
-| **05** | **HOTSPOTS_MODIS.js** | Extracts monthly MODIS Active Fire (hotspot) detections. |
-| **06** | **Fire_count_Landsat.js** | Estimates monthly wildfire occurrence (fire count) from Landsat burned-area detections. |
-| **07** | **NBR_monthly_2001_2025.js** | Calculates the monthly Normalized Burn Ratio (NBR) from Landsat imagery. |
+| **05** | **Fire_count_Landsat.js** | Estimates monthly wildfire occurrence (fire count) from Landsat burned-area detections. |
+| **06** | **NBR_monthly_2001_2025.js** | Calculates the monthly Normalized Burn Ratio (NBR) from Landsat imagery. |
 
 ---
 
@@ -152,7 +150,6 @@ The **Figures/** directory contains the figures included in the manuscript.
 The analyses integrate publicly available datasets from:
 
 * Landsat Collection 2 Level-2 (USGS)
-* MODIS Active Fire Product (NASA FIRMS)
 * ERA5-Land Reanalysis (Copernicus Climate Change Service)
 * NOAA Climate Prediction Center (Niño 3.4 Index)
 * Standardized Precipitation–Evapotranspiration Index (SPEI)
@@ -213,7 +210,7 @@ Run the scripts sequentially following their numerical order.
 
 If you use this repository, please cite:
 
-Márquez-Villalba, G. L., Tapia-Silva, F. O.& Márquez García, A. Z. (2026). Galoludwig/sierra-santa-catarina-wildfires: Biophysical drivers of wildfire occurrence in a protected peri-urban area of Mexico City: A 25-year analysis of the Sierra de Santa Catarina (2001–2025) (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21389234
+Márquez-Villalba, G. L., Tapia-Silva, F. O.& Márquez García, A. Z. (2026). Galoludwig/sierra-santa-catarina-wildfires: Biophysical drivers of wildfire occurrence in a protected peri-urban area of Mexico City: A 25-year Landsat based analysis of the Sierra de Santa Catarina (2001–2025) (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21389234
 
 
 ---
