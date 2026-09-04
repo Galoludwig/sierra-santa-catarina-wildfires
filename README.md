@@ -1,4 +1,4 @@
-# Biophysical drivers of wildfire occurrence in a protected peri-urban area of Mexico City: A 25-year analysis of the Sierra de Santa Catarina (2001–2025)
+# Biophysical drivers of wildfire occurrence in a protected peri-urban area of Mexico City: A 25-year Landsat based analysis of the Sierra de Santa Catarina (2001–2025)
 
 ## Overview
 
