@@ -214,7 +214,7 @@ Márquez-Villalba, G. L., Tapia-Silva, F. O.& Márquez García, A. Z. (2026). Ga
 
 # License
 
-This repository is distributed under the **MIT License**.
+The dataset is distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 ---
 
